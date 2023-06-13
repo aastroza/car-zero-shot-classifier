@@ -1,0 +1,768 @@
+id,marca,modelo,tipo,is_derco
+0,alfa romeo,4c,automovil,False
+1,alfa romeo,giulia,automovil,False
+2,alfa romeo,giulietta,automovil,False
+3,alfa romeo,mito,automovil,False
+4,alfa romeo,stelvio,station wagon,False
+5,audi,a1,automovil,False
+6,audi,a3,automovil,False
+7,audi,a4,automovil,False
+8,audi,a5,automovil,False
+9,audi,a6,automovil,False
+10,audi,a7,automovil,False
+11,audi,a8,automovil,False
+12,audi,q2,station wagon,False
+13,audi,q3,station wagon,False
+14,audi,q5,station wagon,False
+15,audi,q7,jeep,False
+16,audi,q8,station wagon,False
+17,audi,r8,automovil,False
+18,audi,tt,automovil,False
+19,baic,plus,furgon,False
+20,baic,up,automovil,False
+21,baic,x25,station wagon,False
+22,baic,x35,station wagon,False
+23,baic,x55,station wagon,False
+24,baic,zoom,jeep,False
+25,bmw,118,automovil,False
+26,bmw,120,automovil,False
+27,bmw,128,automovil,False
+28,bmw,218,automovil,False
+29,bmw,220,automovil,False
+30,bmw,318,automovil,False
+31,bmw,320,automovil,False
+32,bmw,330,automovil,False
+33,bmw,340,automovil,False
+34,bmw,420,automovil,False
+35,bmw,435,automovil,False
+36,bmw,520,automovil,False
+37,bmw,528,automovil,False
+38,bmw,530,automovil,False
+39,bmw,535,automovil,False
+40,bmw,540,automovil,False
+41,bmw,640,automovil,False
+42,bmw,650,automovil,False
+43,bmw,730,automovil,False
+44,bmw,740,automovil,False
+45,bmw,745,automovil,False
+46,bmw,750,automovil,False
+47,bmw,i3,automovil,False
+48,bmw,i8,automovil,False
+49,bmw,m135,automovil,False
+50,bmw,m2,automovil,False
+51,bmw,m3,automovil,False
+52,bmw,m4,automovil,False
+53,bmw,m5,automovil,False
+54,bmw,m6,automovil,False
+55,bmw,m850i,automovil,False
+56,bmw,x1,station wagon,False
+57,bmw,x2,station wagon,False
+58,bmw,x3,station wagon,False
+59,bmw,x4,station wagon,False
+60,bmw,x5,station wagon,False
+61,bmw,x6,station wagon,False
+62,bmw,x7,station wagon,False
+63,bmw,z4,automovil,False
+64,brilliance,h220,automovil,False
+65,brilliance,h230,automovil,False
+66,brilliance,h2l,furgon,False
+67,brilliance,konect,station wagon,False
+68,brilliance,v3,station wagon,False
+69,brilliance,v5,station wagon,False
+70,byd,f0,automovil,False
+71,byd,f3,automovil,False
+72,byd,s1,automovil,False
+73,byd,s5,station wagon,False
+74,byd,s6,station wagon,False
+75,changan,a500,station wagon,True
+76,changan,cs1,automovil,True
+77,changan,cs15,automovil,True
+78,changan,cs35,station wagon,True
+79,changan,cs55,station wagon,True
+80,changan,cs75,station wagon,True
+81,changan,cv1,automovil,True
+82,changan,cx70,station wagon,True
+83,changan,hunter,camioneta,True
+84,changan,m201,furgon,True
+85,changan,md201,camioneta,True
+86,changan,ms201,camioneta,True
+87,changan,new cv2,automovil,True
+88,changan,s200,camioneta,True
+89,chery,arrizo,automovil,False
+90,chery,beat,station wagon,False
+91,chery,fulwin,automovil,False
+92,chery,iq,automovil,False
+93,chery,k60,station wagon,False
+94,chery,tiggo,station wagon,False
+95,chevrolet,apache,station wagon,False
+96,chevrolet,astra,automovil,False
+97,chevrolet,astro,station wagon,False
+98,chevrolet,avalanche,camioneta,False
+99,chevrolet,aveo,automovil,False
+100,chevrolet,blazer,camioneta,False
+101,chevrolet,cadillac,automovil,False
+102,chevrolet,camaro,automovil,False
+103,chevrolet,caprice,station wagon,False
+104,chevrolet,captiva,station wagon,False
+105,chevrolet,cavalier,automovil,False
+106,chevrolet,chevalier,automovil,False
+107,chevrolet,chevy,automovil,False
+108,chevrolet,cheyenne,camioneta,False
+109,chevrolet,ck,camioneta,False
+110,chevrolet,cobalt,automovil,False
+111,chevrolet,colorado,camioneta,False
+112,chevrolet,combo,furgon,False
+113,chevrolet,corsa,automovil,False
+114,chevrolet,corvette,automovil,False
+115,chevrolet,cruze,automovil,False
+116,chevrolet,cs,camioneta,False
+117,chevrolet,d max,camioneta,False
+118,chevrolet,equinox,station wagon,False
+119,chevrolet,express,station wagon,False
+120,chevrolet,fleetside,camioneta,False
+121,chevrolet,geo,automovil,False
+122,chevrolet,groove,station wagon,False
+123,chevrolet,hhr,station wagon,False
+124,chevrolet,impala,automovil,False
+125,chevrolet,lumina,automovil,False
+126,chevrolet,luv,camioneta,False
+127,chevrolet,malibu,automovil,False
+128,chevrolet,metro,automovil,False
+129,chevrolet,montana,camioneta,False
+130,chevrolet,monza,automovil,False
+131,chevrolet,n300,furgon,False
+132,chevrolet,n400,furgon,False
+133,chevrolet,onix,automovil,False
+134,chevrolet,optra,automovil,False
+135,chevrolet,orlando,station wagon,False
+136,chevrolet,pick up,camioneta,False
+137,chevrolet,premier,camioneta,False
+138,chevrolet,prisma,automovil,False
+139,chevrolet,s10,camioneta,False
+140,chevrolet,sail,automovil,False
+141,chevrolet,saturn,automovil,False
+142,chevrolet,silverado,camioneta,False
+143,chevrolet,sonic,automovil,False
+144,chevrolet,space,camioneta,False
+145,chevrolet,space cab,camioneta,False
+146,chevrolet,spacecab,camioneta,False
+147,chevrolet,spark,automovil,False
+148,chevrolet,spin,station wagon,False
+149,chevrolet,sportside,camioneta,False
+150,chevrolet,sprint,automovil,False
+151,chevrolet,suburban,station wagon,False
+152,chevrolet,tahoe,station wagon,False
+153,chevrolet,tracker,station wagon,False
+154,chevrolet,trailblazer,station wagon,False
+155,chevrolet,traverse,station wagon,False
+156,chevrolet,trax,station wagon,False
+157,chevrolet,trooper,jeep,False
+158,chevrolet,uplander,station wagon,False
+159,chevrolet,van,furgon,False
+160,chevrolet,vectra,automovil,False
+161,chevrolet,venture,station wagon,False
+162,chevrolet,vivant,station wagon,False
+163,chevrolet,volt,automovil,False
+164,chevrolet,winstorm,station wagon,False
+165,chevrolet,work truck,camioneta,False
+166,chevrolet,zafira,station wagon,False
+167,citroen,ax,automovil,False
+168,citroen,berlingo,furgon,False
+169,citroen,c3,automovil,False
+170,citroen,c4,automovil,False
+171,citroen,c5,automovil,False
+172,citroen,ds3,automovil,False
+173,citroen,ds4,automovil,False
+174,citroen,ds5,automovil,False
+175,citroen,elysee,automovil,False
+176,citroen,jumper,furgon,False
+177,citroen,jumpy,furgon,False
+178,citroen,multispace,station wagon,False
+179,citroen,nemo,furgon,False
+180,citroen,saxo,automovil,False
+181,citroen,xantia,automovil,False
+182,citroen,xsara,automovil,False
+183,citroen,zx,automovil,False
+184,daihatsu,applause,automovil,False
+185,daihatsu,charade,automovil,False
+186,daihatsu,cuore,automovil,False
+187,daihatsu,delta,station wagon,False
+188,daihatsu,feroza,jeep,False
+189,daihatsu,giro,automovil,False
+190,daihatsu,hi jet,station wagon,False
+191,daihatsu,hijet,camioneta,False
+192,daihatsu,mira,automovil,False
+193,daihatsu,move,station wagon,False
+194,daihatsu,opti,automovil,False
+195,daihatsu,rocky,jeep,False
+196,daihatsu,sirion,automovil,False
+197,daihatsu,storia,automovil,False
+198,daihatsu,terios,station wagon,False
+199,daihatsu,yrv,station wagon,False
+200,dfm,a30,automovil,False
+201,dfm,ax3,station wagon,False
+202,dfm,ax4,station wagon,False
+203,dfm,ax5,station wagon,False
+204,dfm,ax7,station wagon,False
+205,dfm,h30,station wagon,False
+206,dfm,joyear,station wagon,False
+207,dfm,m5,station wagon,False
+208,dfm,s30,automovil,False
+209,dfm,s50,automovil,False
+210,dfm,s500,station wagon,False
+211,dfm,sx6,station wagon,False
+212,dfsk,560,station wagon,False
+213,dfsk,580,station wagon,False
+214,dfsk,cargo box,camioneta,False
+215,dfsk,cargo van,furgon,False
+216,dfsk,truck,camioneta,False
+217,dodge,challenger,automovil,False
+218,dodge,charger,automovil,False
+219,dodge,durango,station wagon,False
+220,dodge,journey,station wagon,False
+221,dodge,ram,camioneta,False
+222,dodge,van,furgon,False
+223,dong feng,df2500,camioneta,False
+224,dong feng,df2900,camioneta,False
+225,faw,b50,automovil,False
+226,faw,b70,automovil,False
+227,faw,d60,station wagon,False
+228,faw,oley,automovil,False
+229,faw,r7,station wagon,False
+230,faw,t80,camioneta,False
+231,faw,v2,automovil,False
+232,faw,v5,automovil,False
+233,faw,v80,furgon,False
+234,faw,vita,automovil,False
+235,faw,x80,station wagon,False
+236,fiat,500,automovil,False
+237,fiat,595,automovil,False
+238,fiat,argo,automovil,False
+239,fiat,bravo,automovil,False
+240,fiat,cinquecento,automovil,False
+241,fiat,cronos,automovil,False
+242,fiat,doblo,furgon,False
+243,fiat,ducato,furgon,False
+244,fiat,fiorino,furgon,False
+245,fiat,fullback,camioneta,False
+246,fiat,linea,automovil,False
+247,fiat,mobi,automovil,False
+248,fiat,palio,automovil,False
+249,fiat,panda,automovil,False
+250,fiat,pop,automovil,False
+251,fiat,punto,automovil,False
+252,fiat,qubo,station wagon,False
+253,fiat,siena,automovil,False
+254,fiat,strada,camioneta,False
+255,fiat,tipo,automovil,False
+256,fiat,uno,automovil,False
+257,ford,aerostar,station wagon,False
+258,ford,bronco,jeep,False
+259,ford,e350,furgon,False
+260,ford,econoline,station wagon,False
+261,ford,ecosport,station wagon,False
+262,ford,edge,station wagon,False
+263,ford,escape,station wagon,False
+264,ford,escort,automovil,False
+265,ford,expedition,station wagon,False
+266,ford,explorer,station wagon,False
+267,ford,f150,camioneta,False
+268,ford,f250,camioneta,False
+269,ford,f350,camioneta,False
+270,ford,f450,camioneta,False
+271,ford,f550,camioneta,False
+272,ford,fiesta,automovil,False
+273,ford,focus,automovil,False
+274,ford,fusion,automovil,False
+275,ford,ghia,automovil,False
+276,ford,mustang,automovil,False
+277,ford,ranger,camioneta,False
+278,ford,taurus,automovil,False
+279,ford,territory,station wagon,False
+280,ford,transit van,furgon,False
+281,foton,ft500,camioneta,False
+282,foton,k1,furgon,False
+283,foton,midi,camioneta,False
+284,foton,midi truck,camioneta,False
+285,foton,terracota,camioneta,False
+286,foton,tm3,camioneta,False
+287,gac gonow,way,camioneta,False
+288,geely,ck,automovil,True
+289,geely,emgrand,automovil,True
+290,geely,emgrand7,automovil,True
+291,geely,gs,automovil,True
+292,geely,lc,automovil,True
+293,geely,x7,station wagon,True
+294,gm daewoo,brougham,automovil,False
+295,gm daewoo,cielo,automovil,False
+296,gm daewoo,espero,automovil,False
+297,gm daewoo,heaven,automovil,False
+298,gm daewoo,korando,jeep,False
+299,gm daewoo,labo,camioneta,False
+300,gm daewoo,lanos,automovil,False
+301,gm daewoo,leganza,automovil,False
+302,gm daewoo,lemans,automovil,False
+303,gm daewoo,matiz,automovil,False
+304,gm daewoo,musso,station wagon,False
+305,gm daewoo,nexia,automovil,False
+306,gm daewoo,nubira,automovil,False
+307,gm daewoo,pointer,automovil,False
+308,gm daewoo,prince,automovil,False
+309,gm daewoo,racer,automovil,False
+310,gm daewoo,rezzo,station wagon,False
+311,gm daewoo,tico,automovil,False
+312,great wall,3,station wagon,True
+313,great wall,6,station wagon,True
+314,great wall,m4,automovil,True
+315,great wall,poer,camioneta,True
+316,great wall,voleex,automovil,True
+317,great wall,wingle,camioneta,True
+318,great wall,wingle5,camioneta,True
+319,great wall,wingle6,camioneta,True
+320,great wall,wingle7,camioneta,True
+321,haval,h2,station wagon,True
+322,haval,h6,station wagon,True
+323,haval,h7,station wagon,True
+324,honda,accord,automovil,False
+325,honda,acty,camioneta,False
+326,honda,acura,automovil,False
+327,honda,city,automovil,False
+328,honda,civic,automovil,False
+329,honda,crv,station wagon,False
+330,honda,crx,automovil,False
+331,honda,edix,station wagon,False
+332,honda,fit,station wagon,False
+333,honda,hrv,station wagon,False
+334,honda,integra,automovil,False
+335,honda,legend,automovil,False
+336,honda,odyssey,station wagon,False
+337,honda,passport,station wagon,False
+338,honda,pilot,station wagon,False
+339,honda,prelude,automovil,False
+340,honda,ridgeline,camioneta,False
+341,honda,stream,station wagon,False
+342,hyundai,accent,automovil,False
+343,hyundai,atos,automovil,False
+344,hyundai,azera,automovil,False
+345,hyundai,county,furgon,False
+346,hyundai,creta,station wagon,False
+347,hyundai,elantra,automovil,False
+348,hyundai,eon,automovil,False
+349,hyundai,equus,automovil,False
+350,hyundai,galloper,station wagon,False
+351,hyundai,genesis,automovil,False
+352,hyundai,grace,furgon,False
+353,hyundai,h1,furgon,False
+354,hyundai,hd35,camioneta,False
+355,hyundai,i10,automovil,False
+356,hyundai,i20,automovil,False
+357,hyundai,i30,automovil,False
+358,hyundai,i40,station wagon,False
+359,hyundai,ioniq,automovil,False
+360,hyundai,kona,station wagon,False
+361,hyundai,palisade,station wagon,False
+362,hyundai,porter,camioneta,False
+363,hyundai,santa fe,station wagon,False
+364,hyundai,solati,furgon,False
+365,hyundai,sonata,automovil,False
+366,hyundai,terracan,station wagon,False
+367,hyundai,tucson,station wagon,False
+368,hyundai,veloster,automovil,False
+369,hyundai,venue,station wagon,False
+370,hyundai,veracruz,station wagon,False
+371,hyundai,verna,automovil,False
+372,infiniti,q50,automovil,False
+373,infiniti,q60,automovil,False
+374,infiniti,q70,automovil,False
+375,infiniti,qx30,station wagon,False
+376,infiniti,qx50,station wagon,False
+377,infiniti,qx60,station wagon,False
+378,infiniti,qx70,station wagon,False
+379,infiniti,qx80,station wagon,False
+380,jac,hfc,camioneta,False
+381,jac,j2,automovil,False
+382,jac,j4,automovil,False
+383,jac,j6,station wagon,False
+384,jac,refine,furgon,False
+385,jac,s1,automovil,False
+386,jac,s2,station wagon,False
+387,jac,s3,station wagon,False
+388,jac,s4,automovil,False
+389,jac,s5,station wagon,False
+390,jac,sunray,furgon,False
+391,jac,t6,camioneta,False
+392,jac,t8,camioneta,False
+393,jac,x200,camioneta,False
+394,jaguar,f type,automovil,False
+395,jaguar,xe,automovil,False
+396,jaguar,xf,automovil,False
+397,jaguar,xj,automovil,False
+398,jeep,cherokee,station wagon,False
+399,jeep,compass,station wagon,False
+400,jeep,renegade,station wagon,False
+401,jeep,wrangler,station wagon,False
+402,jmc,vigus,camioneta,False
+403,kia,avella,automovil,False
+404,kia,besta,furgon,False
+405,kia,bongo,camioneta,False
+406,kia,cadenza,automovil,False
+407,kia,carens,station wagon,False
+408,kia,carnival,station wagon,False
+409,kia,cerato,automovil,False
+410,kia,ceres,camioneta,False
+411,kia,frontier,camioneta,False
+412,kia,k5,automovil,False
+413,kia,mohave,station wagon,False
+414,kia,morning,automovil,False
+415,kia,niro,station wagon,False
+416,kia,optima,automovil,False
+417,kia,pride,automovil,False
+418,kia,quoris,automovil,False
+419,kia,retona,station wagon,False
+420,kia,rio,automovil,False
+421,kia,seltos,station wagon,False
+422,kia,sephia,automovil,False
+423,kia,soluto,automovil,False
+424,kia,sorento,station wagon,False
+425,kia,soul,station wagon,False
+426,kia,spectra,automovil,False
+427,kia,sportage,station wagon,False
+428,kia,stinger,automovil,False
+429,lada,granta,automovil,False
+430,lada,kalina,station wagon,False
+431,lada,largus,furgon,False
+432,lada,niva,jeep,False
+433,land rover,defender,station wagon,False
+434,land rover,discovery,station wagon,False
+435,land rover,evoque,station wagon,False
+436,land rover,range rover,station wagon,False
+437,lexus,es,automovil,False
+438,lexus,gs,automovil,False
+439,lexus,is,automovil,False
+440,lexus,lx,station wagon,False
+441,lexus,rc,automovil,False
+442,lexus,rx,station wagon,False
+443,lexus,ux,automovil,False
+444,lifan,530,automovil,False
+445,lifan,630,automovil,False
+446,lifan,cargo,furgon,False
+447,lifan,lf van,station wagon,False
+448,lifan,truck,camioneta,False
+449,lifan,x50,station wagon,False
+450,lifan,x60,station wagon,False
+451,lifan,x7,station wagon,False
+452,lifan,x70,station wagon,False
+453,mahindra,genio,camioneta,False
+454,mahindra,kuv100,automovil,False
+455,mahindra,pick up,camioneta,False
+456,mahindra,pik up,camioneta,False
+457,mahindra,quanto,jeep,False
+458,mahindra,scorpio,station wagon,False
+459,mahindra,xuv500,station wagon,False
+460,maxus,c35,camioneta,False
+461,maxus,ev30,furgon,False
+462,maxus,g10,furgon,False
+463,maxus,t60,camioneta,False
+464,maxus,v80,camioneta,False
+465,mazda,2,automovil,True
+466,mazda,3,automovil,True
+467,mazda,323,automovil,True
+468,mazda,5,station wagon,True
+469,mazda,6,automovil,True
+470,mazda,626,automovil,True
+471,mazda,929,automovil,True
+472,mazda,artis,automovil,True
+473,mazda,b2000,camioneta,True
+474,mazda,b2200,camioneta,True
+475,mazda,b2600,camioneta,True
+476,mazda,b2900,camioneta,True
+477,mazda,biante,station wagon,True
+478,mazda,bongo,station wagon,True
+479,mazda,bt50,camioneta,True
+480,mazda,cx3,station wagon,True
+481,mazda,cx30,station wagon,True
+482,mazda,cx5,station wagon,True
+483,mazda,cx7,station wagon,True
+484,mazda,cx9,station wagon,True
+485,mazda,mx5,automovil,True
+486,mazda,protege,automovil,True
+487,mazda,rx7,automovil,True
+488,mazda,rx8,automovil,True
+489,mazda,tribute,station wagon,True
+490,mazda,verisa,station wagon,True
+491,mercedes benz,a,automovil,False
+492,mercedes benz,amg gt,automovil,False
+493,mercedes benz,b,automovil,False
+494,mercedes benz,c,automovil,False
+495,mercedes benz,c63,automovil,False
+496,mercedes benz,citan,furgon,False
+497,mercedes benz,cla,automovil,False
+498,mercedes benz,e,automovil,False
+499,mercedes benz,e220,automovil,False
+500,mercedes benz,e63,automovil,False
+501,mercedes benz,g,station wagon,False
+502,mercedes benz,gla,station wagon,False
+503,mercedes benz,glc,station wagon,False
+504,mercedes benz,gle,station wagon,False
+505,mercedes benz,gls,station wagon,False
+506,mercedes benz,ml,station wagon,False
+507,mercedes benz,s,automovil,False
+508,mercedes benz,s600,automovil,False
+509,mercedes benz,s63,automovil,False
+510,mercedes benz,sl,automovil,False
+511,mercedes benz,sl500,automovil,False
+512,mercedes benz,sl63,automovil,False
+513,mercedes benz,slc,automovil,False
+514,mercedes benz,slk,automovil,False
+515,mercedes benz,slk55,automovil,False
+516,mercedes benz,sprinter,furgon,False
+517,mercedes benz,vito,furgon,False
+518,mercedes benz,x,camioneta,False
+519,mg,3,automovil,False
+520,mg,360,automovil,False
+521,mg,5,automovil,False
+522,mg,6,automovil,False
+523,mg,gs,station wagon,False
+524,mg,gt,automovil,False
+525,mg,hs,station wagon,False
+526,mg,rx5,station wagon,False
+527,mg,zs,station wagon,False
+528,mini,cooper,automovil,False
+529,mini,countryman,automovil,False
+530,mini,f55,automovil,False
+531,mini,f56,automovil,False
+532,mini,f57,automovil,False
+533,mitsubishi,asx,station wagon,False
+534,mitsubishi,chariot,station wagon,False
+535,mitsubishi,colt,station wagon,False
+536,mitsubishi,delica,station wagon,False
+537,mitsubishi,eclipse,automovil,False
+538,mitsubishi,galant,automovil,False
+539,mitsubishi,l200,camioneta,False
+540,mitsubishi,lancer,automovil,False
+541,mitsubishi,mirage,automovil,False
+542,mitsubishi,montero,station wagon,False
+543,mitsubishi,outlander,station wagon,False
+544,nissan,370z,automovil,False
+545,nissan,altima,automovil,False
+546,nissan,armada,station wagon,False
+547,nissan,bluebird,automovil,False
+548,nissan,gtr,automovil,False
+549,nissan,juke,station wagon,False
+550,nissan,kicks,station wagon,False
+551,nissan,leaf,automovil,False
+552,nissan,march,automovil,False
+553,nissan,maxima,automovil,False
+554,nissan,murano,station wagon,False
+555,nissan,navara,camioneta,False
+556,nissan,note,station wagon,False
+557,nissan,np300,camioneta,False
+558,nissan,nv200,station wagon,False
+559,nissan,nv350,furgon,False
+560,nissan,pathfinder,station wagon,False
+561,nissan,patrol,station wagon,False
+562,nissan,primera,automovil,False
+563,nissan,qashqai,station wagon,False
+564,nissan,rogue,station wagon,False
+565,nissan,sentra,automovil,False
+566,nissan,sunny,automovil,False
+567,nissan,terrano,camioneta,False
+568,nissan,tiida,automovil,False
+569,nissan,titan,camioneta,False
+570,nissan,urvan,furgon,False
+571,nissan,v16,automovil,False
+572,nissan,versa,automovil,False
+573,nissan,xtrail,station wagon,False
+574,opel,astra,automovil,False
+575,opel,combo,furgon,False
+576,opel,corsa,automovil,False
+577,opel,crossland,station wagon,False
+578,opel,crossland x,station wagon,False
+579,opel,grandland,station wagon,False
+580,opel,grandland x,station wagon,False
+581,opel,insignia,automovil,False
+582,opel,meriva,station wagon,False
+583,opel,mokka,station wagon,False
+584,opel,vivaro,furgon,False
+585,peugeot,106,automovil,False
+586,peugeot,108,automovil,False
+587,peugeot,2008,station wagon,False
+588,peugeot,205,automovil,False
+589,peugeot,206,automovil,False
+590,peugeot,207,automovil,False
+591,peugeot,208,automovil,False
+592,peugeot,3008,station wagon,False
+593,peugeot,301,automovil,False
+594,peugeot,306,automovil,False
+595,peugeot,307,automovil,False
+596,peugeot,308,automovil,False
+597,peugeot,4008,station wagon,False
+598,peugeot,405,automovil,False
+599,peugeot,406,automovil,False
+600,peugeot,407,automovil,False
+601,peugeot,5008,station wagon,False
+602,peugeot,504,camioneta,False
+603,peugeot,505,station wagon,False
+604,peugeot,508,automovil,False
+605,peugeot,605,automovil,False
+606,peugeot,607,automovil,False
+607,peugeot,bipper,furgon,False
+608,peugeot,boxer,furgon,False
+609,peugeot,expert,furgon,False
+610,peugeot,partner,furgon,False
+611,peugeot,partner maxi,furgon,False
+612,peugeot,rcz,automovil,False
+613,peugeot,rifter,station wagon,False
+614,peugeot,tepee,station wagon,False
+615,peugeot,traveller,station wagon,False
+616,porsche,718,automovil,False
+617,porsche,911,automovil,False
+618,porsche,cayenne,station wagon,False
+619,porsche,cayman,automovil,False
+620,porsche,macan,station wagon,False
+621,porsche,panamera,automovil,False
+622,proton,preve,automovil,False
+623,renault,19,automovil,True
+624,renault,21,automovil,True
+625,renault,alaskan,camioneta,True
+626,renault,arkana,station wagon,True
+627,renault,captur,station wagon,True
+628,renault,clio,automovil,True
+629,renault,dokker,furgon,True
+630,renault,duster,station wagon,True
+631,renault,express,furgon,True
+632,renault,fluence,automovil,True
+633,renault,kangoo,furgon,True
+634,renault,koleos,station wagon,True
+635,renault,laguna,automovil,True
+636,renault,latitude,automovil,True
+637,renault,logan,automovil,True
+638,renault,master,furgon,True
+639,renault,megane,automovil,True
+640,renault,oroch,camioneta,True
+641,renault,sandero,automovil,True
+642,renault,scenic,station wagon,True
+643,renault,symbol,automovil,True
+644,renault,twingo,automovil,True
+645,renault,zoe,automovil,True
+646,seat,arona,station wagon,False
+647,seat,ateca,station wagon,False
+648,seat,ibiza,automovil,False
+649,seat,leon,automovil,False
+650,seat,tarraco,station wagon,False
+651,skoda,fabia,automovil,False
+652,skoda,karoq,station wagon,False
+653,skoda,kodiaq,station wagon,False
+654,skoda,octavia,automovil,False
+655,skoda,rapid,automovil,False
+656,skoda,superb,automovil,False
+657,skoda,yeti,station wagon,False
+658,ssangyong,actyon,camioneta,False
+659,ssangyong,chairman,automovil,False
+660,ssangyong,istana,station wagon,False
+661,ssangyong,korando,station wagon,False
+662,ssangyong,kyron,station wagon,False
+663,ssangyong,musso,camioneta,False
+664,ssangyong,rexton,station wagon,False
+665,ssangyong,rodius,station wagon,False
+666,ssangyong,stavic,station wagon,False
+667,ssangyong,tivoli,station wagon,False
+668,ssangyong,xlv,station wagon,False
+669,subaru,baja,camioneta,False
+670,subaru,brz,automovil,False
+671,subaru,evoltis,station wagon,False
+672,subaru,forester,station wagon,False
+673,subaru,impreza,automovil,False
+674,subaru,justy,automovil,False
+675,subaru,legacy,automovil,False
+676,subaru,outback,station wagon,False
+677,subaru,sambar,camioneta,False
+678,subaru,tribeca,station wagon,False
+679,subaru,wrx,automovil,False
+680,subaru,xv,station wagon,False
+681,suzuki,aerio,automovil,True
+682,suzuki,alto,automovil,True
+683,suzuki,apv,furgon,True
+684,suzuki,baleno,automovil,True
+685,suzuki,carry,furgon,True
+686,suzuki,celerio,automovil,True
+687,suzuki,ciaz,automovil,True
+688,suzuki,dzire,automovil,True
+689,suzuki,ertiga,station wagon,True
+690,suzuki,ignis,automovil,True
+691,suzuki,jimny,station wagon,True
+692,suzuki,kizashi,automovil,True
+693,suzuki,maruti,automovil,True
+694,suzuki,nomade,station wagon,True
+695,suzuki,samurai,jeep,True
+696,suzuki,scross,automovil,True
+697,suzuki,sidekick,station wagon,True
+698,suzuki,swift,automovil,True
+699,suzuki,sx4,automovil,True
+700,suzuki,vitara,station wagon,True
+701,suzuki,xl7,station wagon,True
+702,tata,xenon,camioneta,False
+703,toyota,4runner,station wagon,False
+704,toyota,auris,automovil,False
+705,toyota,aygo,automovil,False
+706,toyota,camry,automovil,False
+707,toyota,carina,automovil,False
+708,toyota,celica,automovil,False
+709,toyota,corolla,automovil,False
+710,toyota,corona,automovil,False
+711,toyota,fj cruiser,jeep,False
+712,toyota,fortuner,station wagon,False
+713,toyota,hiace,furgon,False
+714,toyota,highlander,station wagon,False
+715,toyota,hilux,camioneta,False
+716,toyota,land cruiser,station wagon,False
+717,toyota,passo,automovil,False
+718,toyota,prado,station wagon,False
+719,toyota,prius,automovil,False
+720,toyota,rav4,station wagon,False
+721,toyota,rush,station wagon,False
+722,toyota,sienna,station wagon,False
+723,toyota,starlet,automovil,False
+724,toyota,supra,automovil,False
+725,toyota,tacoma,camioneta,False
+726,toyota,tercel,automovil,False
+727,toyota,townace,station wagon,False
+728,toyota,tundra,camioneta,False
+729,toyota,urban cruiser,automovil,False
+730,toyota,vitz,automovil,False
+731,toyota,yaris,automovil,False
+732,volkswagen,amarok,camioneta,False
+733,volkswagen,atlas,station wagon,False
+734,volkswagen,beetle,automovil,False
+735,volkswagen,bora,automovil,False
+736,volkswagen,caddy,furgon,False
+737,volkswagen,crafter,furgon,False
+738,volkswagen,crossfox,automovil,False
+739,volkswagen,fox,automovil,False
+740,volkswagen,gol,automovil,False
+741,volkswagen,golf,automovil,False
+742,volkswagen,jetta,automovil,False
+743,volkswagen,kombi,furgon,False
+744,volkswagen,parati,station wagon,False
+745,volkswagen,passat,automovil,False
+746,volkswagen,polo,automovil,False
+747,volkswagen,saveiro,camioneta,False
+748,volkswagen,scirocco,automovil,False
+749,volkswagen,tiguan,station wagon,False
+750,volkswagen,touareg,station wagon,False
+751,volkswagen,transporter,furgon,False
+752,volkswagen,vento,automovil,False
+753,volkswagen,virtus,automovil,False
+754,volkswagen,voyage,automovil,False
+755,volvo,s60,automovil,False
+756,volvo,s90,automovil,False
+757,volvo,v40,automovil,False
+758,volvo,v60,station wagon,False
+759,volvo,v90,station wagon,False
+760,volvo,xc40,station wagon,False
+761,volvo,xc60,station wagon,False
+762,volvo,xc90,station wagon,False
+763,zna,rich,camioneta,False
+764,zna,succe,station wagon,False
+765,zxauto,grandtiger,camioneta,False
+766,zxauto,terralord,camioneta,False

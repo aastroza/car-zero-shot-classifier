@@ -1,0 +1,6 @@
+pandas
+openai
+langchain
+ipykernel
+python-dotenv
+cappr
